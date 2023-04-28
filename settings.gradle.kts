@@ -12,7 +12,7 @@ pluginManagement {
     }
 }
 
-rootProject.name = "template"
+rootProject.name = "speedrunbot"
 
 enableFeaturePreview("VERSION_CATALOGS")
 

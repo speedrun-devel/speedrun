@@ -1,4 +1,3 @@
-# TODO: Update `rootPackage` in naming -> InvalidPackageDeclaration
 
 build:
   maxIssues: 0
@@ -394,8 +393,7 @@ naming:
 
   InvalidPackageDeclaration:
     active: true
-    # TODO: Update this with your project's base package
-    rootPackage: 'template'
+    rootPackage: 'speedrunbot'
 
   MatchingDeclarationName:
     active: true
